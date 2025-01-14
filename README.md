@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @iisokariari
-- 👀 I’m interested in UX/UI design
-- 🌱 I’m currently learning UX fundamentals and tools (Figma, Illustrator,Photoshop)
+- 👋 Hi, I’m Ibiye
+- 👀 I’m interested in Data Analysis
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking for a mentor
 - 📫 How to reach me ibiye.isokariari@gmail.com
 
